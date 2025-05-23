@@ -62,6 +62,7 @@ Formelübersicht:
 
 Exemplarische Ausgabe:
 
+```console
 Wie viele Angebote möchten Sie vergleichen: 3
 --- Angebot 1 ---
 Angebotsname: Computerbude Schmidt KG
@@ -88,7 +89,7 @@ HighTech LAB OHG:
   Einstandspreis brutto: 121.38 €
 Bestes Angebot:
 Computerbude Schmidt KG (Einstandspreis netto: 100.70 €, brutto: 119.83 €)
-
+```
 
 
 # ![](Images/Aspose.Words.cd7ee974-0d64-4e49-bb48-fc4e32b9d5c4.003.png)**Aufgabe 3: Streichholzspiel**
