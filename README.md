@@ -31,7 +31,7 @@ Erstellen Sie ein Aktivitätsdiagramm ein Python-Programm zur Simulation der Pop
 |<p></p><p></p>||||
 |<p></p><p></p>||||
 
-# **Aufgabe 2: Simulation der Populationsentwicklung von R2-D2**
+# **Aufgabe 2: Quantitativer Angebotsvergleich**
 
 Im GIT-Unterricht vergleichen Sie drei Raspberry Pi 5 Angebote. Erstellen Sie zur Automatisierung der Berechnung ein Python-Programm, das für jedes Angebot folgende Informationen von der Benutzerin/dem Benutzer abfragt:
 
