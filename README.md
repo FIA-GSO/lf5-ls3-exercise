@@ -30,7 +30,38 @@ Erstellen Sie ein Aktivitätsdiagramm ein Python-Programm zur Simulation der Pop
 |…|<p></p><p></p>|||
 |<p></p><p></p>||||
 |<p></p><p></p>||||
-# ![](Images/Aspose.Words.cd7ee974-0d64-4e49-bb48-fc4e32b9d5c4.003.png)**Aufgabe 2: Streichholzspiel**
+
+# **Aufgabe 2: Simulation der Populationsentwicklung von R2-D2**
+
+Im GIT-Unterricht vergleichen Sie drei Raspberry Pi 5 Angebote. Erstellen Sie zur Automatisierung der Berechnung ein Python-Programm, das für jedes Angebot folgende Informationen von der Benutzerin/dem Benutzer abfragt:
+
+1. Spieler A nimmt 2 Streichhölzer
+1. Spieler B nimmt beliebig 1 bis 6 Streichhölzer.
+1. Spieler A nimmt eine ergänzende Anzahl, so dass insgesamt 7 entnommen werden.
+1. Schritte 2 und 3 werden wiederholt bis nur noch ein Streichholz übrigbleibt.
+1. Dieses Streichholz muss Spieler B nehmen, der dadurch verliert.
+
+Das Programm soll dann für alle drei Angebote Netto und Bruttowerte für
+
+- Zieleinkaufspreis
+- Bareinkaufspreis
+- Einstandspreis
+
+Und anzeigen:
+
+- Eine Vergleichstabelle
+- Das beste Angebot mit dem niedrigsten Einstandspreis netto
+
+Formelübersicht:
+
+- Netto = Brutto / 1.19
+- Brutto = Netto × 1.19
+- Zieleinkaufspreis = Listeneinkaufspreis – Rabatt
+- Bareinkaufspreis = Zieleinkaufspreis – Skonto
+- Einstandspreis = Bareinkaufspreis + Bezugskosten
+
+
+# ![](Images/Aspose.Words.cd7ee974-0d64-4e49-bb48-fc4e32b9d5c4.003.png)**Aufgabe 3: Streichholzspiel**
 Das so genannte **Nim-Spiel** ist ein Spiel für zwei Personen, bei dem abwechselnd eine Anzahl von Gegenständen (z.B. Streichhölzer) weggenommen wird. Gewonnen hat derjenige, der den letzten Gegenstand nehmen muss.
 
 Hintergrund: The Nimatron is a computer that allows one to play the game Nim. It was first presented in April 1940 at the 1939 New York World's Fair purely as a form of entertainment.
@@ -53,7 +84,7 @@ Optionale Varianten:
 \- Der Computerspieler legt die Anzahl der Streichhölzer für den Start zufällig fest.
 
 
-# **Aufgabe 3: Berechnung der Quadratwurzel (Heron-Verfahren)**
+# **Aufgabe 4: Berechnung der Quadratwurzel (Heron-Verfahren)**
 Das **Heron-Verfahren** (Heronsche Näherungsverfahren oder babylonische Wurzelziehen) ist ein Rechenverfahren zur Berechnung einer **Näherung der Quadratwurzel** einer reellen Zahl a > 0.
 (Quelle https://de.wikipedia.org/wiki/Heron-Verfahren)
 
@@ -86,7 +117,7 @@ Aufgabe:
 ||![](Images/Aspose.Words.cd7ee974-0d64-4e49-bb48-fc4e32b9d5c4.004.png)	|
 | :- | :- |
 
-# **Aufgabe 4: Berechnung der Quersumme einer Zahl**
+# **Aufgabe 5: Berechnung der Quersumme einer Zahl**
 Das folgende Python-Programm berechnet die Quersumme einer eingegebenen Zahl. Erstellen Sie zu Dokumentationszwecken einen Programmablaufplan und machen Sie den Schreibtischtest (der Ausgaben in den Zeilen 13/14) für die **Zahl 362**.
 
 ![](Images/Aspose.Words.cd7ee974-0d64-4e49-bb48-fc4e32b9d5c4.005.png)
