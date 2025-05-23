@@ -53,11 +53,14 @@ if __name__ == '__main__':
 
     # Aufgabe 2
     # TO BE IMPLEMENTED
-
+    
     # Aufgabe 3
-    print (f"Die Wurzel für die Fläche 25 und Grenze 0.01 nach Heron ist: {heron_verfahren(25, 0.01)}")
+    # TO BE IMPLEMENTED
 
     # Aufgabe 4
+    print (f"Die Wurzel für die Fläche 25 und Grenze 0.01 nach Heron ist: {heron_verfahren(25, 0.01)}")
+
+    # Aufgabe 5
     # TO BE IMPLEMENTED
 
     # Use a breakpoint in the code line below to debug your script.
