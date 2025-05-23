@@ -11,11 +11,17 @@ def compute_r2d2_population(steps: int) -> tuple[int,int,int]:
     """
     return (0,0,0)
 
-#---------------------Aufgabe 2 Streichholz------------------------------
+
+
+#---------------------Aufgabe 2 Quantitativer Angebotsvergleich------------------------------
+#IMPLEMENT YOUR SOLUTION FOR THE Quantitativer Angebotsvergleich HERE
+
+
+#---------------------Aufgabe 3 Streichholz------------------------------
 #IMPLEMENT YOUR SOLUTION FOR THE STEICHHOLZSPIEL HERE
 
 
-#---------------------Aufgabe 3 Heron ------------------------------------
+#---------------------Aufgabe 4 Heron ------------------------------------
 def heron_verfahren(area : float, threshold:float) -> float:
     """
         computes the square root using the heron method
@@ -27,7 +33,7 @@ def heron_verfahren(area : float, threshold:float) -> float:
     return 0
 
 
-#---------------------Aufgabe 4 Quersumme------------------------------
+#---------------------Aufgabe 5 Quersumme------------------------------
 #IMPLEMENT, IF NECESSARY, EXERCISE 4 HERE BUT USE A FUNCTION!
 
 
