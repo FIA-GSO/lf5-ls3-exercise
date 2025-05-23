@@ -60,6 +60,36 @@ Formelübersicht:
 - Bareinkaufspreis = Zieleinkaufspreis – Skonto
 - Einstandspreis = Bareinkaufspreis + Bezugskosten
 
+Exemplarische Ausgabe:
+
+Wie viele Angebote möchten Sie vergleichen: 3
+--- Angebot 1 ---
+Angebotsname: Computerbude Schmidt KG
+Ist der Listeneinkaufspreis brutto oder netto? [brutto/netto]: netto
+Listeneinkaufspreis (€): 105
+Rabatt in Prozent oder absolutem Betrag? [prozent/euro]: prozent
+Rabattwert: 7
+Skonto in %: 2
+Bezugskosten in € (netto): 5
+
+--- Angebot 2 ---
+Angebotsname: Gaming & IT-Innovation GmbH
+Ist der Listeneinkaufspreis brutto oder netto? [brutto/netto]: brutto
+…
+Vergleich der Einstandspreise:
+Computerbude Schmidt KG:
+  Einstandspreis netto : 100.70 €
+  Einstandspreis brutto: 119.83 €
+Gaming & IT-Innovation GmbH:
+  Einstandspreis netto : 108.39 €
+  Einstandspreis brutto: 129.98 €
+HighTech LAB OHG:
+  Einstandspreis netto : 102.00 €
+  Einstandspreis brutto: 121.38 €
+Bestes Angebot:
+Computerbude Schmidt KG (Einstandspreis netto: 100.70 €, brutto: 119.83 €)
+
+
 
 # ![](Images/Aspose.Words.cd7ee974-0d64-4e49-bb48-fc4e32b9d5c4.003.png)**Aufgabe 3: Streichholzspiel**
 Das so genannte **Nim-Spiel** ist ein Spiel für zwei Personen, bei dem abwechselnd eine Anzahl von Gegenständen (z.B. Streichhölzer) weggenommen wird. Gewonnen hat derjenige, der den letzten Gegenstand nehmen muss.
