@@ -60,7 +60,7 @@ Formelübersicht:
 - Bareinkaufspreis = Zieleinkaufspreis – Skonto
 - Einstandspreis = Bareinkaufspreis + Bezugskosten
 
-Exemplarische Ausgabe:
+Exemplarische Eingabe/Ausgabe:
 
 ```console
 Wie viele Angebote möchten Sie vergleichen: 3
