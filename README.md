@@ -35,12 +35,6 @@ Erstellen Sie ein Aktivitätsdiagramm ein Python-Programm zur Simulation der Pop
 
 Im GIT-Unterricht vergleichen Sie drei Raspberry Pi 5 Angebote. Erstellen Sie zur Automatisierung der Berechnung ein Python-Programm, das für jedes Angebot folgende Informationen von der Benutzerin/dem Benutzer abfragt:
 
-1. Spieler A nimmt 2 Streichhölzer
-1. Spieler B nimmt beliebig 1 bis 6 Streichhölzer.
-1. Spieler A nimmt eine ergänzende Anzahl, so dass insgesamt 7 entnommen werden.
-1. Schritte 2 und 3 werden wiederholt bis nur noch ein Streichholz übrigbleibt.
-1. Dieses Streichholz muss Spieler B nehmen, der dadurch verliert.
-
 Das Programm soll dann für alle drei Angebote Netto und Bruttowerte für
 
 - Zieleinkaufspreis
