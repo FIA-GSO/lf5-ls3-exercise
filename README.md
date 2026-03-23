@@ -128,8 +128,8 @@ Aufgabe:
 
 - Führen Sie für den Algorithmus als Textrezept einen Schreibtischtest durch
 - Erstellen Sie einen Aktivitätsdiagramm dafür
-- Codieren Sie ein passendes Python-Program in einer Funktion
-  Variablen: ***laenge\_a, laenge\_b, mittelwert, abweichung***
+- Codieren Sie ein passendes Python-Program in einer Funktion.
+  Mögliche Parameter: ***laenge\_a, laenge\_b, mittelwert, abweichung***
 - Führen mit dem Python-Programm einen Schreibtischtest durch
 - Erkunden Sie den Debugger ihrer Entwicklungsumgebung mit ihrem Programm
 
