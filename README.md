@@ -113,6 +113,7 @@ Algorithmus:
 Optionale Varianten:
 \- Der menschliche Spieler darf die Anzahl der Streichhölzer für den Start festlegen.
 \- Der Computerspieler legt die Anzahl der Streichhölzer für den Start zufällig fest.
+\- Nutzen Sie Funktionen um den Stapel zu verwalten.
 
 
 # **Aufgabe 4: Berechnung der Quadratwurzel (Heron-Verfahren)**
@@ -127,7 +128,7 @@ Aufgabe:
 
 - Führen Sie für den Algorithmus als Textrezept einen Schreibtischtest durch
 - Erstellen Sie einen Aktivitätsdiagramm dafür
-- Codieren Sie ein passendes Python-Program
+- Codieren Sie ein passendes Python-Program in einer Funktion
   Variablen: ***laenge\_a, laenge\_b, mittelwert, abweichung***
 - Führen mit dem Python-Programm einen Schreibtischtest durch
 - Erkunden Sie den Debugger ihrer Entwicklungsumgebung mit ihrem Programm
