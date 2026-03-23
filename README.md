@@ -13,7 +13,7 @@ Contains the exercises of lf5\ls3 (Makler) such as r2d2, heron and alike
 
 
 # **Aufgabe 1: Simulation der Populationsentwicklung von R2-D2**
-Erstellen Sie ein Aktivitätsdiagramm ein Python-Programm zur Simulation der Populationsentwicklung von R2-D2-Robotern (mit etwas Fantasie ;-) anhand der folgenden Vorgaben:
+Erstellen Sie ein Aktivitätsdiagramm zur Populationsentwicklung von R2-D2-Robotern (mit etwas Fantasie ;-) anhand der folgenden Vorgaben:
 
 - Unterteilung in drei Altersstufen: 
   junge R2-D2, erwachsene R2-D2 und alte R2-D2
@@ -30,6 +30,12 @@ Erstellen Sie ein Aktivitätsdiagramm ein Python-Programm zur Simulation der Pop
 |…|<p></p><p></p>|||
 |<p></p><p></p>||||
 |<p></p><p></p>||||
+
+Erstellen Sie anschließend eine Python Funktion 
+
+```simulate_population(steps :int) -> string``` 
+
+, die ihr Aktivitätsdiagramm umsetzt. Die Funktion soll dabei einen Parameter "Schritte" haben. Im Hauptprogramm soll die Funktion genutzt werden um bis zu einer eingegeben Schrittzahl die Population auszugeben.  
 
 # **Aufgabe 2: Quantitativer Angebotsvergleich**
 
