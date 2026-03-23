@@ -31,11 +31,11 @@ Erstellen Sie ein Aktivitätsdiagramm zur Populationsentwicklung von R2-D2-Robot
 |<p></p><p></p>||||
 |<p></p><p></p>||||
 
-Erstellen Sie anschließend eine Python Funktion 
+Erstellen Sie anschließend die folgende Python Funktion, die ihr Aktivitätsdiagramm umsetzt. 
 
 ```simulate_population(steps :int) -> string``` 
 
-, die ihr Aktivitätsdiagramm umsetzt. Die Funktion soll dabei einen Parameter "Schritte" haben. Im Hauptprogramm soll die Funktion genutzt werden um bis zu einer eingegeben Schrittzahl die Population auszugeben.  
+  Im Hauptprogramm soll die Funktion genutzt werden um bis zu einer eingegeben Schrittzahl die Population auszugeben.  
 
 # **Aufgabe 2: Quantitativer Angebotsvergleich**
 
