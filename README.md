@@ -39,7 +39,7 @@ Erstellen Sie anschließend die folgende Python Funktion, die ihr Aktivitätsdia
 
 # **Aufgabe 2: Quantitativer Angebotsvergleich**
 
-Im GIT-Unterricht vergleichen Sie drei Raspberry Pi 5 Angebote. Erstellen Sie zur Automatisierung der Berechnung ein Python-Programm, das für jedes Angebot folgende Informationen von der Benutzerin/dem Benutzer abfragt:
+Im GIT-Unterricht vergleichen Sie drei Raspberry Pi 5 Angebote. Erstellen Sie zur Automatisierung der Berechnung ein Python-Programm, das für jedes Angebot einen quantitativen Angebotsvergleich durchführt. Überlegen Sie sich dazu eine geeignete Funktion inklusive Parameter.
 
 Das Programm soll dann für alle drei Angebote Netto und Bruttowerte für
 
